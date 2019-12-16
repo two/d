@@ -2,4 +2,4 @@ package d
 
 import _ "github.com/two/e"
 
-var version = 1.3
+var version = 1.4
