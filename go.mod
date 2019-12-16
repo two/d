@@ -2,4 +2,4 @@ module github.com/two/d
 
 go 1.13
 
-require github.com/two/e v1.1.0
+require github.com/two/e v1.2.0
